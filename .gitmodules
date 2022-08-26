@@ -1,3 +1,6 @@
 [submodule "LKA/Codeigniter - CRUD/Codeigniter4-Simple-Crud"]
 	path = LKA/Codeigniter - CRUD/Codeigniter4-Simple-Crud
 	url = https://github.com/Ticlext-Altihaf/Codeigniter4-Simple-Crud.git
+[submodule "LKA/codeigniter-3-crud"]
+	path = LKA/codeigniter-3-crud
+	url = https://github.com/Ticlext-Altihaf/codeigniter-3-crud.git
